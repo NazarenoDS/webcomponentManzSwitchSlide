@@ -15,10 +15,11 @@ Clone el repositorio, o copialo, esta realizado como un monolito :)..
 ### ⭐ Issues
 Encantado de recibir feedback, o comunicate en discord
 tag:
-#### nazarenods 
+#### nazarenods
 
+---
 
-### Comunidad de Manz.dev
+### ⭐ Comunidad de Manz.dev
 
 [Manz.dev Discord](https://discord.gg/h8Xm58jmj)
 
