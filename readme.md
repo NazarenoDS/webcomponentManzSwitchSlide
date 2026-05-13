@@ -13,9 +13,10 @@ Clone el repositorio, o copialo, esta realizado como un monolito :)..
 --- 
 
 ### ⭐ Issues
-```Encantado de recibir feedback, o comunicate en discord
-tag:nazarenods 
-```
+Encantado de recibir feedback, o comunicate en discord
+tag:
+#### nazarenods 
+
 
 ### Comunidad de Manz.dev
 
