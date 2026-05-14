@@ -3,6 +3,8 @@
 
 ## 📋 Propósito del Proyecto
 -- Proyecto realizado por la provocacion realizada por el señor - [Manz.dev](https://manz.dev/)
+#### Ejemplo
+ [Deploy - GithubPages](https://nazarenods.github.io/webcomponentManzSwitchSlide/)
 
 ---
 
